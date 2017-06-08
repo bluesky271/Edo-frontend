@@ -1,7 +1,7 @@
 body {
   /*padding-top: 20px;*/
   padding-bottom: 20px;
-  background: url('../../Edo-frontend/website/images/HomepageMobileBackground.jpg') center center / cover no-repeat;
+  background: url('../../Edo-frontend/website/images/HomepageMobileBackground.jpg') center center / cover no-repeat fixed;
 }
 
 .jumbotron {
@@ -86,7 +86,7 @@ footer p {
   border-bottom-color: #10ff00;
 }
 
-p {
+p, th {
   color: white;
 }
 
@@ -96,4 +96,8 @@ p {
 
 .card-header {
   background-color: black;
+}
+
+.menu-title {
+  color: white;
 }
