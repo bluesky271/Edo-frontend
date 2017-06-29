@@ -194,7 +194,7 @@ body {
 
 @media (max-width: 767px) {
   .fullscreen-bg {
-    background: url('../../Edo-frontend/website/images/HomepageMobileBackground.jpg') center center / cover no-repeat;
+    background: url('../../images/HomepageMobileBackground.jpg') center center / cover no-repeat;
   }
 
   .fullscreen-bg__video {
