@@ -1,14 +1,14 @@
 body {
   /*padding-top: 20px;*/
   padding-bottom: 20px;
-  background: url('../../Edo-frontend/website/images/HomepageMobileBackground.jpg') center center / cover no-repeat fixed;
+  background: url('../../images/HomepageMobileBackground.jpg') center center / cover no-repeat fixed;
 }
 
 .jumbotron {
   padding-top: 6rem;
   padding-bottom: 6rem;
   margin-bottom: 0;
-  background: url('../../Edo-frontend/website/images/EdoTableTwo.jpg') no-repeat center center fixed;
+  background: url('../../images/EdoTableTwo.jpg') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
